@@ -21,6 +21,7 @@ inputs[3]*weights[3] + bias)
 print(f"salida de la neurona 2, {output}") #impresion de salida
 
 #----------------tres neuronas, una capa----------------#
+#esta es haciendolo de la forma mas basica, multiplicando y sumando uno por uno
 
 inputs = [1, 2, 3, 2.5]
 weights1 = [0.2, 0.8, -0.5, 1]
